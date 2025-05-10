@@ -57,7 +57,7 @@ You can deploy this template to Vercel. Make sure to add the same environment va
 
 ## Acknowledgments
 
-This project started from or is based on the [vercel-labs/ai-sdk-preview-rag](https://github.com/vercel-labs/ai-sdk-preview-rag) template.
+This project is based on the [vercel-labs/ai-sdk-preview-rag](https://github.com/vercel-labs/ai-sdk-preview-rag) template.
 
 ---
 
