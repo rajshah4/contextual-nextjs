@@ -52,7 +52,7 @@ Your project should now be running on [http://localhost:3000](http://localhost:3
 ## Deploying to Vercel
 
 You can deploy this template to Vercel. Make sure to add the same environment variables (`CONTEXTUAL_API_TOKEN` and `NEXT_PUBLIC_CONTEXTUAL_AGENT_ID`) in your Vercel project settings under **Environment Variables**.
-
+ 
 ---
 
 ## Acknowledgments
