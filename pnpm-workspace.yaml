@@ -1,0 +1,6 @@
+allowBuilds:
+  esbuild: set this to true or false
+  sharp: set this to true or false
+
+overrides:
+  sharp: "^0.35.0"
